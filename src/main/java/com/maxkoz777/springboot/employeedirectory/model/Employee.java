@@ -1,4 +1,4 @@
-package com.maxkoz777.springboot.employeedirectory.entity;
+package com.maxkoz777.springboot.employeedirectory.model;
 
 import javax.persistence.*;
 
